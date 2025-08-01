@@ -13,6 +13,11 @@ This project analyzes U.S. domestic airline flight data to uncover patterns in d
 
 ---
 
+
+<img width="1610" height="979" alt="Screenshot 2025-07-29 at 5 00 17 PM" src="https://github.com/user-attachments/assets/3a580e44-7fb9-463a-bdc1-bc4d88cdf7c5" />
+
+
+
 ## 🧰 Tools & Technologies
 
 | Tool        | Purpose                                  |
@@ -24,28 +29,6 @@ This project analyzes U.S. domestic airline flight data to uncover patterns in d
 
 ---
 
-## 📁 Folder Structure
-
-📦Airline-Delay-Analysis
-┣ 📂data
-┃ ┣ flights.csv
-┃ ┣ airlines.csv
-┃ ┗ airports.csv
-┣ 📂sql
-┃ ┗ airlineanalysis.sql
-┣ 📂dashboard
-┃ ┗ USFlights.twb (Tableau workbook)
-┣ 📂assets
-┃ ┗ screenshots, visual exports
-┣ US_Airline_Presentation_Script.pdf
-┣ US_Airline_Analysis_Presentation.pptx
-┗ README.md
-
-yaml
-Copy
-Edit
-
----
 
 ## 📊 Key KPIs Analyzed
 
